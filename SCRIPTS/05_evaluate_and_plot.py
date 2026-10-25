@@ -1,12 +1,6 @@
 """
 Purpose: Evaluate the trained model and create model-performance plots.
 
-Before running:
-- Run 04_train_model.py first in the same Python session, or load a saved model
-  and reconstruct the test dataset as shown below.
-- This script assumes the trained `model`, `history`, `test_ds`, and `CLASS_NAMES`
-  objects are available. For a standalone run, use the loading section below.
-
 Outputs:
 - Outputs/confusion_matrix.png
 - Outputs/training_validation_accuracy.png
