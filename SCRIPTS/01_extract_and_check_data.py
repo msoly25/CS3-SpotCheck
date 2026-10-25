@@ -1,7 +1,5 @@
 """
-Script 1: Extract and Check Original Datasets
-
-Purpose:
+Purpose: Extract and Check Original Datasets
     1. Reassemble the original dataset ZIP if it was split into parts.
     2. Extract the two lady beetle species datasets.
     3. Check image counts and readability.
