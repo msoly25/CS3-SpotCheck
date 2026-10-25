@@ -1,5 +1,5 @@
 """
-Script 3 — Create the exploratory plots used before model training.
+Purpose: Create the exploratory plots used before model training.
 
 Outputs:
 - Outputs/eda_image_counts.png
