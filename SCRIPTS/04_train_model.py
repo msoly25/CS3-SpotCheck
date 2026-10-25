@@ -1,7 +1,6 @@
 """
-Script 4 — Load the image datasets, build MobileNetV2, and train the model.
-
-Purpose: This script saves the trained model and training history in Outputs/.
+Purpose:  Load the image datasets, build MobileNetV2, and train the model.
+This script saves the trained model and training history in Outputs/.
 Required packages: TensorFlow
 """
 
