@@ -1,4 +1,13 @@
-"Required packages: Pillow, pandas, scikit-learn"
+"""
+Purpose: Resize images, verify dimensions, and create train/test folders
+
+Outputs:
+- Data/Final_Datasets/<species>/ : RGB JPEG images resized to 224 x 224
+- Data/Split_Datasets/train/ and test/ : stratified 80/20 split
+- train_manifest.csv and test_manifest.csv : records of the split
+
+Required packages: Pillow, pandas, scikit-learn
+"""
 
 from pathlib import Path
 import shutil
